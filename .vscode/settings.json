@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "iostream": "cpp",
+        "search_in_rotated_sorted_array,cpp": "cpp"
+    }
+}
